@@ -1,2 +1,4 @@
-# vagi
+# Vägi
+
 Current and Power Monitor
+
