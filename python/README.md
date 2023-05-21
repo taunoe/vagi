@@ -34,3 +34,4 @@ pip install ttkbootstrap
 ## Learn
 
 - [The ultimate introduction to modern GUIs in Python [ with tkinter ]](https://www.youtube.com/watch?v=mop6g-c5HEY)
+- [TKinter Modern Themes](https://github.com/RobertJN64/TKinterModernThemes)
